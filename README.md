@@ -17,6 +17,10 @@
 
 Es una app de escritorio para armar y reorganizar documentos página por página. Si tienes un informe, varios anexos y una foto que deben ir juntos, puedes arrastrarlos a la ventana, ordenar sus páginas como quieras y exportarlos como un solo PDF.
 
+<p align="center">
+  <a href="#descargar-e-instalar"><img src="docs/guia-visual.webp" width="600" alt="Guía visual de Geli Smart PDF. Arrastra Word, PowerPoint, PDF o imágenes, reordena y gira las páginas, comprime archivos y exporta en PDF, JPG o PNG."></a>
+</p>
+
 | Si necesitas… | Puedes… |
 | --- | --- |
 | **Juntar documentos** | Combinar PDF e imágenes y reordenar las páginas arrastrando sus miniaturas. |
